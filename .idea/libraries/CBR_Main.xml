@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CBR-Main" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../CBR/src" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

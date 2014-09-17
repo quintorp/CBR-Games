@@ -1,0 +1,1 @@
+﻿package com.borch {	public interface IGame {		function initGame (resource:Object = null):void;		function resetGame (option:Object = null):void ;		function startGame (firstTime:Boolean = false):void;		function stopGame (gameOver:Object = false):void;		function cleanUp ():void;	}}
